@@ -25,6 +25,12 @@ HEADERS = {
 }
 TIMEOUT = 8
 SPIDER_PROXIES = None
+"""
+SPIDER_PROXIES = {
+    'http': '221.180.170.104:8080',
+    'https': '124.156.98.172:443'
+}
+"""
 # SHOWMYIP = 'https://www.showmyip.com/'
 # IP138 = 'https://ip138.com/'
 ICANHAZIP = 'http://icanhazip.com/'
